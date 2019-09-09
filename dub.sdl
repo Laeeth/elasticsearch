@@ -1,0 +1,6 @@
+name "generate_elasticsearch"
+description "Tool to generate elasticsearch API"
+authors "Laeeth Isharc"
+copyright "Copyright © 2019, Laeeth Isharc"
+license "boost"
+dependency "asdf" version="~>0.5.0"
